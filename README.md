@@ -1,5 +1,10 @@
-Moj projekt dla ciebie. Wrzucam ci projekt odosnie szablonu strony internetowej w AxureRP.
+## Projekt w Axure na przedmiot Inżynieria oprogramowania
 
-Projekt zawiera 4 szablony podstron:
+# Strona dla eventu o biegach
 
-Główna - zawiera menu, które pozwala nam przejśc na inne podstrony Informacje - zawiera informacje o evencie. Posiada mozliwosc wysłasnia feedbacku na temat ostatnich zawodów. Opinie użytkowników pojawiają sie na stronie. Zaloguj - prosty panel logowania dla użytkownika. Konto tworzy się automatycznie po wysłaniu formularza zgłoszeniowego. Wyniki - Tutaj znajdują się wyniki ostatnich zawodów (ranking) - mamy możliwość wybrania miesiąca, z którego chcemy zobaczyć ranking Powodzonka w edycji
+Strona zawiera:
+1.Panel administracyjny dla organizatorów imprezy, umożliwiający zarządzanie biegiem, zapisywanie uczestników, wybieranie trasy, dodawanie sędziów i wolontariuszy itp.
+2.Rejestracja uczestników: Uczestnik może zarejestrować się na bieg za pośrednictwem strony internetowej lub aplikacji mobilnej, podając swoje dane osobowe, informacje o płatności oraz wybierając preferowaną trasę.
+3.Zbieranie i przetwarzanie wyników biegu: Sędziowie mogą wprowadzać wyniki biegu do systemu, który następnie przetwarza i wyświetla je na stronie internetowej i w aplikacji mobilnej.
+4.Sprzedaż biletów online dla uczestników: Uczestnik może dokonać płatności za bilet za pośrednictwem strony internetowej lub aplikacji mobilnej, otrzymując potwierdzenie rezerwacji i kod QR do skanowania na wejściu na imprezę.
+5.Komunikacja z wolontariuszami i sędziami: Organizatorzy mogą przesyłać wiadomości do wolontariuszy i sędziów za pośrednictwem panelu administracyjnego, informując ich o zmianach w trasy, potrzebie wsparcia itp.
